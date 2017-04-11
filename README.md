@@ -1,0 +1,1 @@
+This code is part of a small set of code exercises from The Odin Project which asks for the method substrings to take two arguments, one string and one array. If any of the words are seen in the array, it will be kept track of along with how many times it appears in the string.
